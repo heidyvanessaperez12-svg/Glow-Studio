@@ -17,4 +17,4 @@ Sitio web para un estudio de uñas que incluye:
 
 ## Autora
 Heidy Vanessa Perez
-Estudiante de Desarrollo Web# Glow-Studio
+Estudiante de Desarrollo Web # Glow-Studio
